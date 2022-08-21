@@ -1,6 +1,6 @@
 body {
   text-align:center;
-  background-color: pink;
+  background-color: #283149;
 
 }
 
@@ -85,7 +85,5 @@ background-image: url(images/tom1.png);
   background-color: white;
 }
 .box{
- margin:5% 20%;
-  width:20%;
-  
+ margin:5% 0;
 }
