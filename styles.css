@@ -1,6 +1,10 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-color: white;
+   background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 h1 {
