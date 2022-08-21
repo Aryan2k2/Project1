@@ -48,7 +48,7 @@ background-image: url(images/tom1.png);
   background-image: url(images/tom4.png);
 }
 
-.set {
+.row {
   margin: 10% auto;
 }
 
@@ -82,4 +82,13 @@ background-image: url(images/tom1.png);
   text-align: center;
   margin: 10px;
   background-color: white;
+}
+.box{
+  padding:5%;
+}
+  
+  
+  
+  
+}
 }
